@@ -1,0 +1,29 @@
+<html>
+    <head>
+    </head>
+    <body>
+        <table border="1">
+            <tr>
+                <th>student name</th>
+           <th>marks</th>
+           <th>subject</th>
+            </tr>
+            <tr>
+                <th>arjun</th>
+                <td>80</td>
+                <td>maths</thd>
+            </tr>
+            <tr>
+                <th>akhil</th>
+                <td>90</td>
+                <td>maths</td>
+            </tr>
+            <tr>
+                <th>athul</th>
+                <td>70</td>
+            <td>maths</td>
+            </tr>
+        </table>
+        
+    </body>
+</html>
